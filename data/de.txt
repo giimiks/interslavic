@@ -121,7 +121,7 @@ Amerikaner
 oft, häufig
 !Krise
 zitieren
-!Foul
+Foul
 !schreiben
 albanisch
 !wem
@@ -15812,8 +15812,8 @@ Wilddieb, Wilderer
 !meister, meister
 !Almosen
 !kyrillisch
-!Feudalismus
-!feudal
+Feudalismus
+feudal
 Kakao
 !bilden
 Schminke, Make-up
