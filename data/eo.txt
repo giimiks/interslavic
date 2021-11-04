@@ -197,7 +197,7 @@ frato
 !ribeli
 !funkcio
 !trans
-!anĝelo
+anĝelo
 !konsilo
 !ili ĉirkaŭas, ĉirkaŭi
 !miliono
@@ -5008,7 +5008,7 @@ aktoro
 !paŭsas
 Abĥazio
 !ĉefepiskopo
-!apostolo
+apostolo
 !batalanto, batalanto, aktivulo
 !bosnia
 !episkopo
