@@ -2306,7 +2306,7 @@ Spielplatz
 !ihr
 !belichten, Anzeige
 !Sie
-!Schuld
+Schuld
 !beschuldigen, die Schuld für
 christlich
 tapfer, mutig
